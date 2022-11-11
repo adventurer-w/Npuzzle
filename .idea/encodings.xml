@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/core/problem/Problem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/problem/ProblemType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/problem/State.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/runner/EngineFeeder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/solver/algorithm/Searcher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/solver/algorithm/blinded/BlindSearch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/stud/problem/npuzzle/State.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/stud/problem/pathfinding/Direction.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
