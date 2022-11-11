@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>puzzle.png</file>
+        <file>label.png</file>
+        <file>play.png</file>
+        <file>play2.png</file>
+        <file>stop.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>down.png</file>
+        <file>start.png</file>
+        <file>up.png</file>
+    </qresource>
+</RCC>
